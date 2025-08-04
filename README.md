@@ -38,7 +38,7 @@ All fields marked with an asterisk (\*) are mandatory and should be validated be
 3. Customize styles or submission handling (e.g., add JavaScript or backend integration) as needed.
 
 ```bash
-git clone https://github.com/your-username/contact-form.git
-cd contact-form
+git clone https://github.com/amir-mirzakhani/contactus.git
+cd contactus
 open index.html
 ```
